@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Playroom","order":1,"path":"rooms/Playroom/Playroom.yy",},
+    {"name":"Player_Head","order":1,"path":"objects/Player_Head/Player_Head.yy",},
     {"name":"PlayerHead","order":1,"path":"sprites/PlayerHead/PlayerHead.yy",},
   ],
 }

@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -36,13 +36,14 @@
   "resources": [
     {"id":{"name":"Playroom","path":"rooms/Playroom/Playroom.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"Player_Head","path":"objects/Player_Head/Player_Head.yy",},},
     {"id":{"name":"PlayerBody","path":"sprites/PlayerBody/PlayerBody.yy",},},
     {"id":{"name":"PlayerHead","path":"sprites/PlayerHead/PlayerHead.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Playroom","path":"rooms/Playroom/Playroom.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
