@@ -20,4 +20,8 @@ else {
 	else if hspeed > 0 {hspeed -= 1}
 }
 
+//Prevents player from moving off screen
 x = clamp(x, sprite_width/2, room_width-sprite_width/2)
+
+//Drains players HP at rate of 3 health per second (0.1 * 30 steps in a second)
+Player.hp -= health_drain

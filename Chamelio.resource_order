@@ -17,10 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"Playroom","order":1,"path":"rooms/Playroom/Playroom.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"spawner1","order":4,"path":"objects/spawner1/spawner1.yy",},
     {"name":"Player_Head","order":1,"path":"objects/Player_Head/Player_Head.yy",},
+    {"name":"bug1","order":3,"path":"objects/bug1/bug1.yy",},
     {"name":"healthScore","order":2,"path":"objects/healthScore/healthScore.yy",},
     {"name":"PlayerHead","order":1,"path":"sprites/PlayerHead/PlayerHead.yy",},
   ],
