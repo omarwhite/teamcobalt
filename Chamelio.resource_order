@@ -18,7 +18,10 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Playroom","order":1,"path":"rooms/Playroom/Playroom.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Player_Head","order":1,"path":"objects/Player_Head/Player_Head.yy",},
+    {"name":"healthScore","order":2,"path":"objects/healthScore/healthScore.yy",},
     {"name":"PlayerHead","order":1,"path":"sprites/PlayerHead/PlayerHead.yy",},
   ],
 }
