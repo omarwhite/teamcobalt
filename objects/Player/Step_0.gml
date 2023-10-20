@@ -20,5 +20,4 @@ else {
 	else if hspeed > 0 {hspeed -= 1}
 }
 
-
-
+x = clamp(x, sprite_width/2, room_width-sprite_width/2)
