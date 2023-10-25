@@ -33,6 +33,11 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"head_obj","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Player_Head","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"max_speed","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"10","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"health_drain","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.1","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"tongue_obj","filters":[
+        "GMObject",
+      ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Tongue","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"max_eat_reach","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"400","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"eat_speed","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"1","varType":0,},
   ],
   "solid": false,
   "spriteId": {

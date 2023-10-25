@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Player_Head",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "Tongue_Tip",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "PlayerHead",
-    "path": "sprites/PlayerHead/PlayerHead.yy",
+    "name": "TongueTip_Normal",
+    "path": "sprites/TongueTip_Normal/TongueTip_Normal.yy",
   },
   "spriteMaskId": null,
   "visible": true,

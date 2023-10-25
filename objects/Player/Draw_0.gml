@@ -9,3 +9,11 @@ if (head_ref){
 		y = other.y + (other.head_offset_y)
 	}
 }
+
+if (tongue_obj){
+	with tongue_obj{
+		image_angle = other.head_obj.image_angle;
+		x = other.head_obj.x;
+		y = other.head_obj.y
+	}
+}
