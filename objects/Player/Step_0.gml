@@ -3,15 +3,30 @@
 
 
 hspeed = clamp(hspeed, -max_speed, max_speed)
-
 if keyboard_check(ord("A")){ //left
 	hspeed += -1
+	//handle sprite flip
+	image_xscale = -1
+	if !(head_offset_x < 0) {
+		head_offset_x *= -1
+	}
+	with head_obj{
+		image_xscale = -1;
+	}
 
 }
 
 
 else if keyboard_check(ord("D")){ //right
 	hspeed += 1
+	image_xscale = 1
+	//handle sprite flip
+	if !(head_offset_x > 0){
+		head_offset_x *= -1 
+	}
+	with head_obj{
+		image_xscale = 1
+	}
 
 }
 
