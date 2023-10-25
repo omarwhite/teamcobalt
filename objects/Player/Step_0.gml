@@ -47,11 +47,17 @@ if p_state == PlayerState.Normal{
 		}
 
 	}
-
+	
 	else {
 		if hspeed < 0 {hspeed += 1}
 		else if hspeed > 0 {hspeed -= 1}
 	}
+
+	
+}
+else {
+	if hspeed < 0 {hspeed += 1}
+	else if hspeed > 0 {hspeed -= 1}
 }
 
 //Prevents player from moving off screen
@@ -63,7 +69,7 @@ Player.hp -= health_drain
 
 
 var flipFactor = 1
-if keyboard_check(ord("E")) and p_state != PlayerState.Hidden{
+if keyboard_check(ord("E")) and p_state != PlayerState.Hidden and p_state != PlayerState.Retracting{
 	p_state = PlayerState.Eating
 	//Move head
 	flipFactor = 1
@@ -105,7 +111,6 @@ if p_state == PlayerState.Retracting{
 			if abs(tongueLength) > 0{
 				image_xscale = lerp(abs(image_xscale), 0 , other.retract_speed * 0.1) * other.image_xscale 
 			}
-			
 			if abs(tongueLength) < 1.5{
 				instance_destroy()
 			}
