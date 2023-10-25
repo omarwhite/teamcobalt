@@ -15,6 +15,12 @@ if keyboard_check(ord("A")){ //left
 	with head_obj{
 		image_xscale = -1;
 	}
+	
+	with tongue_obj {
+		if image_xscale > 0{
+			image_xscale *= -1
+		}
+	}
 
 }
 
@@ -28,6 +34,12 @@ else if keyboard_check(ord("D")){ //right
 	}
 	with head_obj{
 		image_xscale = 1
+	}
+	
+	with tongue_obj {
+		if image_xscale < 0{
+			image_xscale *= -1
+		}
 	}
 
 }
@@ -64,10 +76,12 @@ if keyboard_check(ord("E")){
 	}
 	
 	with tongue_obj{
+		if other.image_xscale < 0 and image_xscale > 0 { image_xscale *= -1 }
 		var tongueLength = sprite_width - (30/defaultLength) * sprite_width
-		if tongueLength < other.max_eat_reach{
-			image_xscale = lerp(image_xscale, 10, other.eat_speed * 0.01)
+		if abs(tongueLength) < other.max_eat_reach{
+			image_xscale = lerp(abs(image_xscale), 10 , other.eat_speed * 0.01) * other.image_xscale 
 		}
+		
 	}	
 }
 

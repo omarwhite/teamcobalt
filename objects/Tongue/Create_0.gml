@@ -5,7 +5,7 @@
 tip_ref = instance_create_depth(x, y, 1, tongueTip)
 defaultLength = sprite_width
 
-image_xscale = 0.01
+image_xscale = 0.01 * Player.image_xscale
 
 
 
