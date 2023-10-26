@@ -44,8 +44,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "PlayerBody",
-    "path": "sprites/PlayerBody/PlayerBody.yy",
+    "name": "PlayerBody_Idle",
+    "path": "sprites/PlayerBody_Idle/PlayerBody_Idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

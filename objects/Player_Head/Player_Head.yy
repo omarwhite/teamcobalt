@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "PlayerHead",
-    "path": "sprites/PlayerHead/PlayerHead.yy",
+    "name": "PlayerHead_Idle",
+    "path": "sprites/PlayerHead_Idle/PlayerHead_Idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,
