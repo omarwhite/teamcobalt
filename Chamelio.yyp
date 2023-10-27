@@ -1,92 +1,425 @@
 {
-  "resourceType": "GMProject",
-  "resourceVersion": "1.7",
-  "name": "Chamelio",
-  "AudioGroups": [
-    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  resources: [
+    {
+      id: {
+        name: "Font1",
+        path: "fonts/Font1/Font1.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Bird",
+        path: "objects/Bird/Bird.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "bug1",
+        path: "objects/bug1/bug1.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "Bushes",
+        path: "objects/Bushes/Bushes.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "GameManager",
+        path: "objects/GameManager/GameManager.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "Ground",
+        path: "objects/Ground/Ground.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "healthScore",
+        path: "objects/healthScore/healthScore.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "Player",
+        path: "objects/Player/Player.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "Player_Head",
+        path: "objects/Player_Head/Player_Head.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "spawner1",
+        path: "objects/spawner1/spawner1.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "Tongue",
+        path: "objects/Tongue/Tongue.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "Tongue_Tip",
+        path: "objects/Tongue_Tip/Tongue_Tip.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "BirdPath",
+        path: "paths/BirdPath/BirdPath.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "bugPath",
+        path: "paths/bugPath/bugPath.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "Playroom",
+        path: "rooms/Playroom/Playroom.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "ChangeSeason",
+        path: "scripts/ChangeSeason/ChangeSeason.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Spawn",
+        path: "scripts/Spawn/Spawn.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "AutumnBG",
+        path: "sprites/AutumnBG/AutumnBG.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Autumn_Bush",
+        path: "sprites/Autumn_Bush/Autumn_Bush.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "Autumn_Ground",
+        path: "sprites/Autumn_Ground/Autumn_Ground.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "PlayerBody",
+        path: "sprites/PlayerBody/PlayerBody.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "PlayerBody_Idle",
+        path: "sprites/PlayerBody_Idle/PlayerBody_Idle.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "PlayerHead",
+        path: "sprites/PlayerHead/PlayerHead.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "PlayerHead_Idle",
+        path: "sprites/PlayerHead_Idle/PlayerHead_Idle.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "SpringBG",
+        path: "sprites/SpringBG/SpringBG.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "SpringBGAlt",
+        path: "sprites/SpringBGAlt/SpringBGAlt.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "Spring_Bush",
+        path: "sprites/Spring_Bush/Spring_Bush.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "Spring_BushALT",
+        path: "sprites/Spring_BushALT/Spring_BushALT.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "Spring_Ground",
+        path: "sprites/Spring_Ground/Spring_Ground.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "Sprite3",
+        path: "sprites/Sprite3/Sprite3.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "Sprite4",
+        path: "sprites/Sprite4/Sprite4.yy",
+      },
+      order: 13,
+    },
+    {
+      id: {
+        name: "Sprite5",
+        path: "sprites/Sprite5/Sprite5.yy",
+      },
+      order: 14,
+    },
+    {
+      id: {
+        name: "SummerBG",
+        path: "sprites/SummerBG/SummerBG.yy",
+      },
+      order: 15,
+    },
+    {
+      id: {
+        name: "Summer_Bush",
+        path: "sprites/Summer_Bush/Summer_Bush.yy",
+      },
+      order: 16,
+    },
+    {
+      id: {
+        name: "Summer_Ground",
+        path: "sprites/Summer_Ground/Summer_Ground.yy",
+      },
+      order: 17,
+    },
+    {
+      id: {
+        name: "TempBird",
+        path: "sprites/TempBird/TempBird.yy",
+      },
+      order: 18,
+    },
+    {
+      id: {
+        name: "TongueBase",
+        path: "sprites/TongueBase/TongueBase.yy",
+      },
+      order: 19,
+    },
+    {
+      id: {
+        name: "TongueFull",
+        path: "sprites/TongueFull/TongueFull.yy",
+      },
+      order: 20,
+    },
+    {
+      id: {
+        name: "TongueFull2",
+        path: "sprites/TongueFull2/TongueFull2.yy",
+      },
+      order: 21,
+    },
+    {
+      id: {
+        name: "TongueTip_Hit",
+        path: "sprites/TongueTip_Hit/TongueTip_Hit.yy",
+      },
+      order: 22,
+    },
+    {
+      id: {
+        name: "TongueTip_Normal",
+        path: "sprites/TongueTip_Normal/TongueTip_Normal.yy",
+      },
+      order: 23,
+    },
+    {
+      id: {
+        name: "WinterBG",
+        path: "sprites/WinterBG/WinterBG.yy",
+      },
+      order: 24,
+    },
+    {
+      id: {
+        name: "Winter_Ground",
+        path: "sprites/Winter_Ground/Winter_Ground.yy",
+      },
+      order: 25,
+    },
   ],
-  "configs": {
-    "children": [],
-    "name": "Default",
+  Options: [
+    {
+      name: "Android",
+      path: "options/android/options_android.yy",
+    },
+    {
+      name: "iOS",
+      path: "options/ios/options_ios.yy",
+    },
+    {
+      name: "Linux",
+      path: "options/linux/options_linux.yy",
+    },
+    {
+      name: "Main",
+      path: "options/main/options_main.yy",
+    },
+    {
+      name: "operagx",
+      path: "options/operagx/options_operagx.yy",
+    },
+    {
+      name: "Windows",
+      path: "options/windows/options_windows.yy",
+    },
+  ],
+  isDnDProject: false,
+  isEcma: false,
+  tutorialPath: "",
+  configs: {
+    name: "Default",
+    children: [],
   },
-  "defaultScriptType": 1,
-  "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+  RoomOrderNodes: [
+    {
+      roomId: {
+        name: "Playroom",
+        path: "rooms/Playroom/Playroom.yy",
+      },
+    },
   ],
-  "IncludedFiles": [],
-  "isEcma": false,
-  "LibraryEmitters": [],
-  "MetaData": {
-<<<<<<< HEAD
-    "IDEVersion": "2023.8.0.98",
-=======
-    "IDEVersion": "2023.800.0.406",
->>>>>>> f15660f (feat: Added basis for season change)
+  Folders: [
+    {
+      folderPath: "folders/Fonts.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Fonts",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Objects.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Objects",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Paths.yy",
+      order: 2,
+      resourceVersion: "",
+      name: "Paths",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Rooms.yy",
+      order: 3,
+      resourceVersion: "",
+      name: "Rooms",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Scripts.yy",
+      order: 4,
+      resourceVersion: "",
+      name: "Scripts",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Sprites.yy",
+      order: 5,
+      resourceVersion: "",
+      name: "Sprites",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+  ],
+  AudioGroups: [
+    {
+      targets: -1,
+      resourceVersion: "",
+      name: "audiogroup_default",
+      resourceType: "GMAudioGroup",
+    },
+  ],
+  TextureGroups: [
+    {
+      isScaled: true,
+      autocrop: true,
+      border: 2,
+      mipsToGenerate: 0,
+      groupParent: null,
+      targets: -1,
+      resourceVersion: "",
+      name: "Default",
+      resourceType: "GMTextureGroup",
+    },
+  ],
+  IncludedFiles: [],
+  MetaData: {
+    IDEVersion: "",
   },
-  "resources": [
-    {"id":{"name":"TongueBase","path":"sprites/TongueBase/TongueBase.yy",},},
-    {"id":{"name":"TongueFull2","path":"sprites/TongueFull2/TongueFull2.yy",},},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
-    {"id":{"name":"Playroom","path":"rooms/Playroom/Playroom.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
-    {"id":{"name":"Spring_BushALT","path":"sprites/Spring_BushALT/Spring_BushALT.yy",},},
-    {"id":{"name":"SpringBGAlt","path":"sprites/SpringBGAlt/SpringBGAlt.yy",},},
-    {"id":{"name":"GameManager","path":"objects/GameManager/GameManager.yy",},},
-    {"id":{"name":"PlayerBody_Idle","path":"sprites/PlayerBody_Idle/PlayerBody_Idle.yy",},},
-    {"id":{"name":"Spring_Bush","path":"sprites/Spring_Bush/Spring_Bush.yy",},},
-    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
-    {"id":{"name":"Autumn_Bush","path":"sprites/Autumn_Bush/Autumn_Bush.yy",},},
-    {"id":{"name":"spawner1","path":"objects/spawner1/spawner1.yy",},},
-    {"id":{"name":"Spring_Ground","path":"sprites/Spring_Ground/Spring_Ground.yy",},},
-    {"id":{"name":"AutumnBG","path":"sprites/AutumnBG/AutumnBG.yy",},},
-    {"id":{"name":"TongueTip_Hit","path":"sprites/TongueTip_Hit/TongueTip_Hit.yy",},},
-    {"id":{"name":"Player_Head","path":"objects/Player_Head/Player_Head.yy",},},
-    {"id":{"name":"Summer_Bush","path":"sprites/Summer_Bush/Summer_Bush.yy",},},
-    {"id":{"name":"Spawn","path":"scripts/Spawn/Spawn.yy",},},
-    {"id":{"name":"TongueFull","path":"sprites/TongueFull/TongueFull.yy",},},
-    {"id":{"name":"bug1","path":"objects/bug1/bug1.yy",},},
-<<<<<<< HEAD
-    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
-=======
-    {"id":{"name":"WinterBG","path":"sprites/WinterBG/WinterBG.yy",},},
->>>>>>> f15660f (feat: Added basis for season change)
-    {"id":{"name":"PlayerHead_Idle","path":"sprites/PlayerHead_Idle/PlayerHead_Idle.yy",},},
-    {"id":{"name":"SummerBG","path":"sprites/SummerBG/SummerBG.yy",},},
-    {"id":{"name":"Autumn_Ground","path":"sprites/Autumn_Ground/Autumn_Ground.yy",},},
-    {"id":{"name":"PlayerBody","path":"sprites/PlayerBody/PlayerBody.yy",},},
-    {"id":{"name":"Summer_Ground","path":"sprites/Summer_Ground/Summer_Ground.yy",},},
-    {"id":{"name":"ChangeSeason","path":"scripts/ChangeSeason/ChangeSeason.yy",},},
-    {"id":{"name":"Winter_Ground","path":"sprites/Winter_Ground/Winter_Ground.yy",},},
-    {"id":{"name":"TongueTip_Normal","path":"sprites/TongueTip_Normal/TongueTip_Normal.yy",},},
-    {"id":{"name":"Bushes","path":"objects/Bushes/Bushes.yy",},},
-    {"id":{"name":"healthScore","path":"objects/healthScore/healthScore.yy",},},
-    {"id":{"name":"SpringBG","path":"sprites/SpringBG/SpringBG.yy",},},
-    {"id":{"name":"Tongue","path":"objects/Tongue/Tongue.yy",},},
-    {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
-    {"id":{"name":"Tongue_Tip","path":"objects/Tongue_Tip/Tongue_Tip.yy",},},
-    {"id":{"name":"bugPath","path":"paths/bugPath/bugPath.yy",},},
-    {"id":{"name":"PlayerHead","path":"sprites/PlayerHead/PlayerHead.yy",},},
-  ],
-  "RoomOrderNodes": [
-    {"roomId":{"name":"Playroom","path":"rooms/Playroom/Playroom.yy",},},
-  ],
-  "templateType": "game",
-  "TextureGroups": [
-    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
-  ],
+  resourceVersion: "",
+  name: "teamcobalt",
+  tags: [],
+  resourceType: "GMProject",
 }

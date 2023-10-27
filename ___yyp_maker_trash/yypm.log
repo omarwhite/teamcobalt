@@ -1,0 +1,649 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[27-10-2023 10:29:12] Initialized GameMaker Project: teamcobalt.yyp
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/animcurves
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/extensions
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/fonts
+[27-10-2023 10:29:12] Checking Font1
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/fonts/Font1
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/fonts/Font1
+[27-10-2023 10:29:12] Checking Font1.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/fonts/Font1/Font1.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/fonts/Font1/Font1.yy
+[27-10-2023 10:29:12] Par: "folders/Fonts" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/fonts/Font1/Font1.yy"
+[27-10-2023 10:29:12] Found Font: Font1
+[27-10-2023 10:29:12] Checking Font1.png
+[27-10-2023 10:29:12] Checking Font1.old.yy
+[27-10-2023 10:29:12] Trash file: Font1.old.yy, will be moved to ___yyp_maker_trash
+[27-10-2023 10:29:12] Checking Font1.old.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/notes
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects
+[27-10-2023 10:29:12] Checking Tongue_Tip
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue_Tip
+[27-10-2023 10:29:12] Checking Tongue
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue
+[27-10-2023 10:29:12] Checking spawner1
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/spawner1
+[27-10-2023 10:29:12] Checking Player_Head
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player_Head
+[27-10-2023 10:29:12] Checking Player
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player
+[27-10-2023 10:29:12] Checking healthScore
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/healthScore
+[27-10-2023 10:29:12] Checking Ground
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Ground
+[27-10-2023 10:29:12] Checking GameManager
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/GameManager
+[27-10-2023 10:29:12] Checking Bushes
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bushes
+[27-10-2023 10:29:12] Checking bug1
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/bug1
+[27-10-2023 10:29:12] Checking Bird
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bird
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bird
+[27-10-2023 10:29:12] Checking Step_0.gml
+[27-10-2023 10:29:12] Checking Create_0.gml
+[27-10-2023 10:29:12] Checking Bird.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bird/Bird.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bird/Bird.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bird/Bird.yy"
+[27-10-2023 10:29:12] Found Object: Bird
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/bug1
+[27-10-2023 10:29:12] Checking Create_0.gml
+[27-10-2023 10:29:12] Checking bug1.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/bug1/bug1.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/bug1/bug1.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/bug1/bug1.yy"
+[27-10-2023 10:29:12] Found Object: bug1
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bushes
+[27-10-2023 10:29:12] Checking Bushes.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bushes/Bushes.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bushes/Bushes.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Bushes/Bushes.yy"
+[27-10-2023 10:29:12] Found Object: Bushes
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/GameManager
+[27-10-2023 10:29:12] Checking Step_0.gml
+[27-10-2023 10:29:12] Checking GameManager.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/GameManager/GameManager.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/GameManager/GameManager.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/GameManager/GameManager.yy"
+[27-10-2023 10:29:12] Found Object: GameManager
+[27-10-2023 10:29:12] Checking Create_0.gml
+[27-10-2023 10:29:12] Checking Alarm_0.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Ground
+[27-10-2023 10:29:12] Checking Ground.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Ground/Ground.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Ground/Ground.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Ground/Ground.yy"
+[27-10-2023 10:29:12] Found Object: Ground
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/healthScore
+[27-10-2023 10:29:12] Checking healthScore.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/healthScore/healthScore.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/healthScore/healthScore.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/healthScore/healthScore.yy"
+[27-10-2023 10:29:12] Found Object: healthScore
+[27-10-2023 10:29:12] Checking Draw_0.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player
+[27-10-2023 10:29:12] Checking Step_0.gml
+[27-10-2023 10:29:12] Checking Player.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player/Player.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player/Player.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player/Player.yy"
+[27-10-2023 10:29:12] Found Object: Player
+[27-10-2023 10:29:12] Checking KeyPress_82.gml
+[27-10-2023 10:29:12] Checking KeyPress_75.gml
+[27-10-2023 10:29:12] Checking Draw_0.gml
+[27-10-2023 10:29:12] Checking Create_0.gml
+[27-10-2023 10:29:12] Checking Alarm_0.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player_Head
+[27-10-2023 10:29:12] Checking Step_0.gml
+[27-10-2023 10:29:12] Checking Player_Head.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player_Head/Player_Head.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player_Head/Player_Head.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Player_Head/Player_Head.yy"
+[27-10-2023 10:29:12] Found Object: Player_Head
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/spawner1
+[27-10-2023 10:29:12] Checking Step_0.gml
+[27-10-2023 10:29:12] Checking spawner1.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/spawner1/spawner1.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/spawner1/spawner1.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/spawner1/spawner1.yy"
+[27-10-2023 10:29:12] Found Object: spawner1
+[27-10-2023 10:29:12] Checking Alarm_0.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue
+[27-10-2023 10:29:12] Checking Tongue.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue/Tongue.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue/Tongue.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue/Tongue.yy"
+[27-10-2023 10:29:12] Found Object: Tongue
+[27-10-2023 10:29:12] Checking Step_0.gml
+[27-10-2023 10:29:12] Checking Draw_0.gml
+[27-10-2023 10:29:12] Checking Destroy_0.gml
+[27-10-2023 10:29:12] Checking Create_0.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue_Tip
+[27-10-2023 10:29:12] Checking Tongue_Tip.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue_Tip/Tongue_Tip.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue_Tip/Tongue_Tip.yy
+[27-10-2023 10:29:12] Par: "folders/Objects" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/objects/Tongue_Tip/Tongue_Tip.yy"
+[27-10-2023 10:29:12] Found Object: Tongue_Tip
+[27-10-2023 10:29:12] Checking Collision_bug1.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options
+[27-10-2023 10:29:12] Checking windows
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/windows
+[27-10-2023 10:29:12] Checking operagx
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/operagx
+[27-10-2023 10:29:12] Checking main
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/main
+[27-10-2023 10:29:12] Checking linux
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/linux
+[27-10-2023 10:29:12] Checking ios
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/ios
+[27-10-2023 10:29:12] Checking android
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/android
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/android
+[27-10-2023 10:29:12] Checking options_android.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/android/options_android.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/android/options_android.yy
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/ios
+[27-10-2023 10:29:12] Checking options_ios.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/ios/options_ios.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/ios/options_ios.yy
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/linux
+[27-10-2023 10:29:12] Checking options_linux.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/linux/options_linux.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/linux/options_linux.yy
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/main
+[27-10-2023 10:29:12] Checking options_main.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/main/options_main.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/main/options_main.yy
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/operagx
+[27-10-2023 10:29:12] Checking options_operagx.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/operagx/options_operagx.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/operagx/options_operagx.yy
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/windows
+[27-10-2023 10:29:12] Checking options_windows.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/windows/options_windows.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/options/windows/options_windows.yy
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths
+[27-10-2023 10:29:12] Checking bugPath
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/bugPath
+[27-10-2023 10:29:12] Checking BirdPath
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/BirdPath
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/BirdPath
+[27-10-2023 10:29:12] Checking BirdPath.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/BirdPath/BirdPath.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/BirdPath/BirdPath.yy
+[27-10-2023 10:29:12] Par: "folders/Paths" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/BirdPath/BirdPath.yy"
+[27-10-2023 10:29:12] Found Path: BirdPath
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/bugPath
+[27-10-2023 10:29:12] Checking bugPath.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/bugPath/bugPath.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/bugPath/bugPath.yy
+[27-10-2023 10:29:12] Par: "folders/Paths" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/paths/bugPath/bugPath.yy"
+[27-10-2023 10:29:12] Found Path: bugPath
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/rooms
+[27-10-2023 10:29:12] Checking Playroom
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/rooms/Playroom
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/rooms/Playroom
+[27-10-2023 10:29:12] Checking Playroom.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/rooms/Playroom/Playroom.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/rooms/Playroom/Playroom.yy
+[27-10-2023 10:29:12] Par: "folders/Rooms" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/rooms/Playroom/Playroom.yy"
+[27-10-2023 10:29:12] Found Room: Playroom
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts
+[27-10-2023 10:29:12] Checking Spawn
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/Spawn
+[27-10-2023 10:29:12] Checking ChangeSeason
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/ChangeSeason
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/ChangeSeason
+[27-10-2023 10:29:12] Checking ChangeSeason.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/ChangeSeason/ChangeSeason.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/ChangeSeason/ChangeSeason.yy
+[27-10-2023 10:29:12] Par: "folders/Scripts" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/ChangeSeason/ChangeSeason.yy"
+[27-10-2023 10:29:12] Found Script: ChangeSeason
+[27-10-2023 10:29:12] Checking ChangeSeason.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/Spawn
+[27-10-2023 10:29:12] Checking Spawn.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/Spawn/Spawn.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/Spawn/Spawn.yy
+[27-10-2023 10:29:12] Par: "folders/Scripts" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/scripts/Spawn/Spawn.yy"
+[27-10-2023 10:29:12] Found Script: Spawn
+[27-10-2023 10:29:12] Checking Spawn.gml
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sequences
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/shaders
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sounds
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites
+[27-10-2023 10:29:12] Checking Winter_Ground
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground
+[27-10-2023 10:29:12] Checking WinterBG
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG
+[27-10-2023 10:29:12] Checking TongueTip_Normal
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal
+[27-10-2023 10:29:12] Checking TongueTip_Hit
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit
+[27-10-2023 10:29:12] Checking TongueFull2
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2
+[27-10-2023 10:29:12] Checking TongueFull
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull
+[27-10-2023 10:29:12] Checking TongueBase
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase
+[27-10-2023 10:29:12] Checking TempBird
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird
+[27-10-2023 10:29:12] Checking Summer_Ground
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground
+[27-10-2023 10:29:12] Checking Summer_Bush
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush
+[27-10-2023 10:29:12] Checking SummerBG
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG
+[27-10-2023 10:29:12] Checking Sprite5
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5
+[27-10-2023 10:29:12] Checking Sprite4
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4
+[27-10-2023 10:29:12] Checking Sprite3
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3
+[27-10-2023 10:29:12] Checking Spring_Ground
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground
+[27-10-2023 10:29:12] Checking Spring_BushALT
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT
+[27-10-2023 10:29:12] Checking Spring_Bush
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush
+[27-10-2023 10:29:12] Checking SpringBGAlt
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt
+[27-10-2023 10:29:12] Checking SpringBG
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG
+[27-10-2023 10:29:12] Checking PlayerHead_Idle
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle
+[27-10-2023 10:29:12] Checking PlayerHead
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead
+[27-10-2023 10:29:12] Checking PlayerBody_Idle
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle
+[27-10-2023 10:29:12] Checking PlayerBody
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody
+[27-10-2023 10:29:12] Checking Autumn_Ground
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground
+[27-10-2023 10:29:12] Checking Autumn_Bush
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush
+[27-10-2023 10:29:12] Checking AutumnBG
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG/layers
+[27-10-2023 10:29:12] Checking AutumnBG.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG/AutumnBG.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG/AutumnBG.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG/AutumnBG.yy"
+[27-10-2023 10:29:12] Found Sprite: AutumnBG
+[27-10-2023 10:29:12] Checking 02b3a61f-9cd9-4ed0-9370-5df1b8708cc5.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG/layers
+[27-10-2023 10:29:12] Checking 02b3a61f-9cd9-4ed0-9370-5df1b8708cc5
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG/layers/02b3a61f-9cd9-4ed0-9370-5df1b8708cc5
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/AutumnBG/layers/02b3a61f-9cd9-4ed0-9370-5df1b8708cc5
+[27-10-2023 10:29:12] Checking cda133ec-3fd3-46d8-aa6b-f0ef2c0dc890.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush/layers
+[27-10-2023 10:29:12] Checking Autumn_Bush.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush/Autumn_Bush.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush/Autumn_Bush.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush/Autumn_Bush.yy"
+[27-10-2023 10:29:12] Found Sprite: Autumn_Bush
+[27-10-2023 10:29:12] Checking 2ff7b0ed-9c0e-49b3-b9cd-f114447fa710.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush/layers
+[27-10-2023 10:29:12] Checking 2ff7b0ed-9c0e-49b3-b9cd-f114447fa710
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush/layers/2ff7b0ed-9c0e-49b3-b9cd-f114447fa710
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Bush/layers/2ff7b0ed-9c0e-49b3-b9cd-f114447fa710
+[27-10-2023 10:29:12] Checking a19c1677-92aa-427e-b079-4e25a030db84.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground/layers
+[27-10-2023 10:29:12] Checking Autumn_Ground.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground/Autumn_Ground.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground/Autumn_Ground.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground/Autumn_Ground.yy"
+[27-10-2023 10:29:12] Found Sprite: Autumn_Ground
+[27-10-2023 10:29:12] Checking 1691b828-c71f-4dba-aac4-dd8aa470e782.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground/layers
+[27-10-2023 10:29:12] Checking 1691b828-c71f-4dba-aac4-dd8aa470e782
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground/layers/1691b828-c71f-4dba-aac4-dd8aa470e782
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Autumn_Ground/layers/1691b828-c71f-4dba-aac4-dd8aa470e782
+[27-10-2023 10:29:12] Checking 893902fb-7cdd-4692-bcb9-cd4b9c4aa36a.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody
+[27-10-2023 10:29:12] Checking PlayerBody.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody/PlayerBody.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody/PlayerBody.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody/PlayerBody.yy"
+[27-10-2023 10:29:12] Found Sprite: PlayerBody
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody/layers
+[27-10-2023 10:29:12] Checking d0af4dc3-e2e6-4040-a0f4-62872ee260c3.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody/layers
+[27-10-2023 10:29:12] Checking d0af4dc3-e2e6-4040-a0f4-62872ee260c3
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody/layers/d0af4dc3-e2e6-4040-a0f4-62872ee260c3
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody/layers/d0af4dc3-e2e6-4040-a0f4-62872ee260c3
+[27-10-2023 10:29:12] Checking e0fd1d83-1536-41d0-b9bf-e97e6c3a1530.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle
+[27-10-2023 10:29:12] Checking PlayerBody_Idle.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/PlayerBody_Idle.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/PlayerBody_Idle.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/PlayerBody_Idle.yy"
+[27-10-2023 10:29:12] Found Sprite: PlayerBody_Idle
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/layers
+[27-10-2023 10:29:12] Checking e049936a-ff0c-4d50-a784-b5fb4c1d8fef.png
+[27-10-2023 10:29:12] Checking dfd12bdf-ab35-4242-b159-9051517b28f1.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/layers
+[27-10-2023 10:29:12] Checking e049936a-ff0c-4d50-a784-b5fb4c1d8fef
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/layers/e049936a-ff0c-4d50-a784-b5fb4c1d8fef
+[27-10-2023 10:29:12] Checking dfd12bdf-ab35-4242-b159-9051517b28f1
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/layers/dfd12bdf-ab35-4242-b159-9051517b28f1
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/layers/dfd12bdf-ab35-4242-b159-9051517b28f1
+[27-10-2023 10:29:12] Checking 1077b33e-02f5-4023-98d1-2e1bf0f1434a.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerBody_Idle/layers/e049936a-ff0c-4d50-a784-b5fb4c1d8fef
+[27-10-2023 10:29:12] Checking 1077b33e-02f5-4023-98d1-2e1bf0f1434a.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead
+[27-10-2023 10:29:12] Checking PlayerHead.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead/PlayerHead.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead/PlayerHead.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead/PlayerHead.yy"
+[27-10-2023 10:29:12] Found Sprite: PlayerHead
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead/layers
+[27-10-2023 10:29:12] Checking 026c1fbf-e3cd-428c-824b-94828a0479eb.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead/layers
+[27-10-2023 10:29:12] Checking 026c1fbf-e3cd-428c-824b-94828a0479eb
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead/layers/026c1fbf-e3cd-428c-824b-94828a0479eb
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead/layers/026c1fbf-e3cd-428c-824b-94828a0479eb
+[27-10-2023 10:29:12] Checking c2a23d0c-7e39-437c-a07c-34262acae5fd.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle
+[27-10-2023 10:29:12] Checking PlayerHead_Idle.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/PlayerHead_Idle.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/PlayerHead_Idle.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/PlayerHead_Idle.yy"
+[27-10-2023 10:29:12] Found Sprite: PlayerHead_Idle
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/layers
+[27-10-2023 10:29:12] Checking fab8666c-6a7a-4b1a-8652-9f15a8e9a372.png
+[27-10-2023 10:29:12] Checking 97e29854-c208-4b5e-8c08-ae6aae93bf66.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/layers
+[27-10-2023 10:29:12] Checking fab8666c-6a7a-4b1a-8652-9f15a8e9a372
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/layers/fab8666c-6a7a-4b1a-8652-9f15a8e9a372
+[27-10-2023 10:29:12] Checking 97e29854-c208-4b5e-8c08-ae6aae93bf66
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/layers/97e29854-c208-4b5e-8c08-ae6aae93bf66
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/layers/97e29854-c208-4b5e-8c08-ae6aae93bf66
+[27-10-2023 10:29:12] Checking 430a3a7f-4e14-40d8-a888-4718c170e269.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/PlayerHead_Idle/layers/fab8666c-6a7a-4b1a-8652-9f15a8e9a372
+[27-10-2023 10:29:12] Checking 430a3a7f-4e14-40d8-a888-4718c170e269.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG
+[27-10-2023 10:29:12] Checking SpringBG.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG/SpringBG.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG/SpringBG.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG/SpringBG.yy"
+[27-10-2023 10:29:12] Found Sprite: SpringBG
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG/layers
+[27-10-2023 10:29:12] Checking 38561c77-7bdc-42f9-8762-18f5f7466d6a.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG/layers
+[27-10-2023 10:29:12] Checking 38561c77-7bdc-42f9-8762-18f5f7466d6a
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG/layers/38561c77-7bdc-42f9-8762-18f5f7466d6a
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBG/layers/38561c77-7bdc-42f9-8762-18f5f7466d6a
+[27-10-2023 10:29:12] Checking fba3261b-26d1-42f7-958f-4510cb90cc26.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt
+[27-10-2023 10:29:12] Checking SpringBGAlt.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt/SpringBGAlt.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt/SpringBGAlt.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt/SpringBGAlt.yy"
+[27-10-2023 10:29:12] Found Sprite: SpringBGAlt
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt/layers
+[27-10-2023 10:29:12] Checking fd9c5ce2-9092-4a9b-86e3-8b6aea076636.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt/layers
+[27-10-2023 10:29:12] Checking fd9c5ce2-9092-4a9b-86e3-8b6aea076636
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt/layers/fd9c5ce2-9092-4a9b-86e3-8b6aea076636
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SpringBGAlt/layers/fd9c5ce2-9092-4a9b-86e3-8b6aea076636
+[27-10-2023 10:29:12] Checking 958161e7-72ff-4a64-b8f9-9c55ab2b04c1.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush
+[27-10-2023 10:29:12] Checking Spring_Bush.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush/Spring_Bush.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush/Spring_Bush.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush/Spring_Bush.yy"
+[27-10-2023 10:29:12] Found Sprite: Spring_Bush
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush/layers
+[27-10-2023 10:29:12] Checking 4243c1c2-f520-4ecc-ad16-5f0f7e55d6f7.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush/layers
+[27-10-2023 10:29:12] Checking 4243c1c2-f520-4ecc-ad16-5f0f7e55d6f7
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush/layers/4243c1c2-f520-4ecc-ad16-5f0f7e55d6f7
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Bush/layers/4243c1c2-f520-4ecc-ad16-5f0f7e55d6f7
+[27-10-2023 10:29:12] Checking 294e10b6-b72e-47ed-bb6b-b6d68c906815.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT
+[27-10-2023 10:29:12] Checking Spring_BushALT.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT/Spring_BushALT.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT/Spring_BushALT.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT/Spring_BushALT.yy"
+[27-10-2023 10:29:12] Found Sprite: Spring_BushALT
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT/layers
+[27-10-2023 10:29:12] Checking c2f4170a-868b-4c2a-8749-a272f142a32a.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT/layers
+[27-10-2023 10:29:12] Checking c2f4170a-868b-4c2a-8749-a272f142a32a
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT/layers/c2f4170a-868b-4c2a-8749-a272f142a32a
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_BushALT/layers/c2f4170a-868b-4c2a-8749-a272f142a32a
+[27-10-2023 10:29:12] Checking b79046b5-37b3-4640-a81e-fe9185cd756e.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground
+[27-10-2023 10:29:12] Checking Spring_Ground.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground/Spring_Ground.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground/Spring_Ground.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground/Spring_Ground.yy"
+[27-10-2023 10:29:12] Found Sprite: Spring_Ground
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground/layers
+[27-10-2023 10:29:12] Checking 214e8d1a-398a-41ef-bc26-d84c356f47c3.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground/layers
+[27-10-2023 10:29:12] Checking 214e8d1a-398a-41ef-bc26-d84c356f47c3
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground/layers/214e8d1a-398a-41ef-bc26-d84c356f47c3
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Spring_Ground/layers/214e8d1a-398a-41ef-bc26-d84c356f47c3
+[27-10-2023 10:29:12] Checking 321bc12f-6362-4f7c-b12b-9a4dd1b1a6e9.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3
+[27-10-2023 10:29:12] Checking Sprite3.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3/Sprite3.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3/Sprite3.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3/Sprite3.yy"
+[27-10-2023 10:29:12] Found Sprite: Sprite3
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3/layers
+[27-10-2023 10:29:12] Checking 1d80aac5-c47d-4348-83e9-53c97f86f279.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3/layers
+[27-10-2023 10:29:12] Checking 1d80aac5-c47d-4348-83e9-53c97f86f279
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3/layers/1d80aac5-c47d-4348-83e9-53c97f86f279
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite3/layers/1d80aac5-c47d-4348-83e9-53c97f86f279
+[27-10-2023 10:29:12] Checking 37016dee-87be-4101-952e-da337065a180.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4
+[27-10-2023 10:29:12] Checking Sprite4.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4/Sprite4.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4/Sprite4.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4/Sprite4.yy"
+[27-10-2023 10:29:12] Found Sprite: Sprite4
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4/layers
+[27-10-2023 10:29:12] Checking e6a9b302-9e9e-4778-8631-1ccbc97afad3.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4/layers
+[27-10-2023 10:29:12] Checking e6a9b302-9e9e-4778-8631-1ccbc97afad3
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4/layers/e6a9b302-9e9e-4778-8631-1ccbc97afad3
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite4/layers/e6a9b302-9e9e-4778-8631-1ccbc97afad3
+[27-10-2023 10:29:12] Checking 5618f6cf-1322-4c54-9958-ee5eea35403e.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5
+[27-10-2023 10:29:12] Checking Sprite5.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5/Sprite5.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5/Sprite5.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5/Sprite5.yy"
+[27-10-2023 10:29:12] Found Sprite: Sprite5
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5/layers
+[27-10-2023 10:29:12] Checking 48e567ab-2575-431a-8a06-4ebf3e836d1f.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5/layers
+[27-10-2023 10:29:12] Checking 48e567ab-2575-431a-8a06-4ebf3e836d1f
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5/layers/48e567ab-2575-431a-8a06-4ebf3e836d1f
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Sprite5/layers/48e567ab-2575-431a-8a06-4ebf3e836d1f
+[27-10-2023 10:29:12] Checking 25168317-ea68-4b51-b929-fa7d56720f63.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG
+[27-10-2023 10:29:12] Checking SummerBG.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG/SummerBG.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG/SummerBG.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG/SummerBG.yy"
+[27-10-2023 10:29:12] Found Sprite: SummerBG
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG/layers
+[27-10-2023 10:29:12] Checking 29065446-15bb-48d7-a3cd-f0bf6b86d27a.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG/layers
+[27-10-2023 10:29:12] Checking 29065446-15bb-48d7-a3cd-f0bf6b86d27a
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG/layers/29065446-15bb-48d7-a3cd-f0bf6b86d27a
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/SummerBG/layers/29065446-15bb-48d7-a3cd-f0bf6b86d27a
+[27-10-2023 10:29:12] Checking a09a1712-7386-48a5-9fa7-0f480cb5e320.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush
+[27-10-2023 10:29:12] Checking Summer_Bush.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush/Summer_Bush.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush/Summer_Bush.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush/Summer_Bush.yy"
+[27-10-2023 10:29:12] Found Sprite: Summer_Bush
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush/layers
+[27-10-2023 10:29:12] Checking b8e1f653-e11a-4016-a6d3-42b97d3b3687.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush/layers
+[27-10-2023 10:29:12] Checking b8e1f653-e11a-4016-a6d3-42b97d3b3687
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush/layers/b8e1f653-e11a-4016-a6d3-42b97d3b3687
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Bush/layers/b8e1f653-e11a-4016-a6d3-42b97d3b3687
+[27-10-2023 10:29:12] Checking c1754fa6-a5e2-4ed9-b971-1019402c389d.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground
+[27-10-2023 10:29:12] Checking Summer_Ground.yy
+[27-10-2023 10:29:12] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground/Summer_Ground.yy
+[27-10-2023 10:29:12] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground/Summer_Ground.yy
+[27-10-2023 10:29:12] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground/Summer_Ground.yy"
+[27-10-2023 10:29:12] Found Sprite: Summer_Ground
+[27-10-2023 10:29:12] Checking layers
+[27-10-2023 10:29:12] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground/layers
+[27-10-2023 10:29:12] Checking f1b462a7-99d0-4820-ad05-b39eba8a886a.png
+[27-10-2023 10:29:12] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground/layers
+[27-10-2023 10:29:12] Checking f1b462a7-99d0-4820-ad05-b39eba8a886a
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground/layers/f1b462a7-99d0-4820-ad05-b39eba8a886a
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Summer_Ground/layers/f1b462a7-99d0-4820-ad05-b39eba8a886a
+[27-10-2023 10:29:13] Checking 368a99df-59de-4e9d-9cf9-40be138eefdd.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird
+[27-10-2023 10:29:13] Checking TempBird.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird/TempBird.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird/TempBird.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird/TempBird.yy"
+[27-10-2023 10:29:13] Found Sprite: TempBird
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird/layers
+[27-10-2023 10:29:13] Checking 8c1f26ae-05a9-4a64-89a0-45f06fabeed9.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird/layers
+[27-10-2023 10:29:13] Checking 8c1f26ae-05a9-4a64-89a0-45f06fabeed9
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird/layers/8c1f26ae-05a9-4a64-89a0-45f06fabeed9
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TempBird/layers/8c1f26ae-05a9-4a64-89a0-45f06fabeed9
+[27-10-2023 10:29:13] Checking 40bdfc58-2cb4-48e1-8253-0365103431aa.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase
+[27-10-2023 10:29:13] Checking TongueBase.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase/TongueBase.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase/TongueBase.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase/TongueBase.yy"
+[27-10-2023 10:29:13] Found Sprite: TongueBase
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase/layers
+[27-10-2023 10:29:13] Checking aa535e6c-6e4e-432b-8daf-5966b07cb351.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase/layers
+[27-10-2023 10:29:13] Checking aa535e6c-6e4e-432b-8daf-5966b07cb351
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase/layers/aa535e6c-6e4e-432b-8daf-5966b07cb351
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueBase/layers/aa535e6c-6e4e-432b-8daf-5966b07cb351
+[27-10-2023 10:29:13] Checking c18b70ec-dfb1-4302-a063-3670395661b6.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull
+[27-10-2023 10:29:13] Checking TongueFull.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull/TongueFull.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull/TongueFull.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull/TongueFull.yy"
+[27-10-2023 10:29:13] Found Sprite: TongueFull
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull/layers
+[27-10-2023 10:29:13] Checking e3f0fcdc-b333-46ba-bbbb-a7257edc600c.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull/layers
+[27-10-2023 10:29:13] Checking e3f0fcdc-b333-46ba-bbbb-a7257edc600c
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull/layers/e3f0fcdc-b333-46ba-bbbb-a7257edc600c
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull/layers/e3f0fcdc-b333-46ba-bbbb-a7257edc600c
+[27-10-2023 10:29:13] Checking eefc1aa6-98b2-4d1d-a194-44a2e8c48a2c.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2
+[27-10-2023 10:29:13] Checking TongueFull2.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2/TongueFull2.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2/TongueFull2.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2/TongueFull2.yy"
+[27-10-2023 10:29:13] Found Sprite: TongueFull2
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2/layers
+[27-10-2023 10:29:13] Checking 4cf2286a-9723-444c-a276-d9c90b6b8375.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2/layers
+[27-10-2023 10:29:13] Checking 4cf2286a-9723-444c-a276-d9c90b6b8375
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2/layers/4cf2286a-9723-444c-a276-d9c90b6b8375
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueFull2/layers/4cf2286a-9723-444c-a276-d9c90b6b8375
+[27-10-2023 10:29:13] Checking 2266c345-5018-4152-bc93-72fe8ed3c5b2.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit
+[27-10-2023 10:29:13] Checking TongueTip_Hit.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit/TongueTip_Hit.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit/TongueTip_Hit.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit/TongueTip_Hit.yy"
+[27-10-2023 10:29:13] Found Sprite: TongueTip_Hit
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit/layers
+[27-10-2023 10:29:13] Checking 90a12d19-603a-4365-b600-35c119e65918.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit/layers
+[27-10-2023 10:29:13] Checking 90a12d19-603a-4365-b600-35c119e65918
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit/layers/90a12d19-603a-4365-b600-35c119e65918
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Hit/layers/90a12d19-603a-4365-b600-35c119e65918
+[27-10-2023 10:29:13] Checking 58c913eb-563d-45af-92b9-b1c2f90bbfd1.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal
+[27-10-2023 10:29:13] Checking TongueTip_Normal.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal/TongueTip_Normal.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal/TongueTip_Normal.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal/TongueTip_Normal.yy"
+[27-10-2023 10:29:13] Found Sprite: TongueTip_Normal
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal/layers
+[27-10-2023 10:29:13] Checking 8743f416-7ed3-40a0-bc29-bf305ef65062.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal/layers
+[27-10-2023 10:29:13] Checking 8743f416-7ed3-40a0-bc29-bf305ef65062
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal/layers/8743f416-7ed3-40a0-bc29-bf305ef65062
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/TongueTip_Normal/layers/8743f416-7ed3-40a0-bc29-bf305ef65062
+[27-10-2023 10:29:13] Checking 136144a5-0f07-4e9a-a320-d119091aa36b.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG
+[27-10-2023 10:29:13] Checking WinterBG.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG/WinterBG.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG/WinterBG.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG/WinterBG.yy"
+[27-10-2023 10:29:13] Found Sprite: WinterBG
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG/layers
+[27-10-2023 10:29:13] Checking 2dfb733e-35e9-4141-bd31-a4fb72e73bfd.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG/layers
+[27-10-2023 10:29:13] Checking 2dfb733e-35e9-4141-bd31-a4fb72e73bfd
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG/layers/2dfb733e-35e9-4141-bd31-a4fb72e73bfd
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/WinterBG/layers/2dfb733e-35e9-4141-bd31-a4fb72e73bfd
+[27-10-2023 10:29:13] Checking 1938ae05-23df-44c2-8f38-ffcbd96be670.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground
+[27-10-2023 10:29:13] Checking Winter_Ground.yy
+[27-10-2023 10:29:13] Parsing C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground/Winter_Ground.yy
+[27-10-2023 10:29:13] Reading C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground/Winter_Ground.yy
+[27-10-2023 10:29:13] Par: "folders/Sprites" at dir: "C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground/Winter_Ground.yy"
+[27-10-2023 10:29:13] Found Sprite: Winter_Ground
+[27-10-2023 10:29:13] Checking layers
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground/layers
+[27-10-2023 10:29:13] Checking d879994b-3887-430e-b758-41e9b38ef655.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground/layers
+[27-10-2023 10:29:13] Checking d879994b-3887-430e-b758-41e9b38ef655
+[27-10-2023 10:29:13] Directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground/layers/d879994b-3887-430e-b758-41e9b38ef655
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/sprites/Winter_Ground/layers/d879994b-3887-430e-b758-41e9b38ef655
+[27-10-2023 10:29:13] Checking 4a1f3a22-93c2-4e0e-a658-fd6e73ff8648.png
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/tilesets
+[27-10-2023 10:29:13] Current parent directory: C:/users/clack/Documents/GameMakerStudio2/teamcobalt/timelines
+[27-10-2023 10:29:13] Moving files to trash...
+[27-10-2023 10:29:13] Files yeeted successfully!
+[27-10-2023 10:29:13] Generating YYP...
+[27-10-2023 10:29:13] teamcobalt.yyp created successfully!
