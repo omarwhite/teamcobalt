@@ -2,7 +2,6 @@
 // You can write your code in this editor
 
 
-
 bush2Offset = 150 // Offset for the foreground bushes y
 bush_width = 0
 

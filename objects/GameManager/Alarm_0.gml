@@ -1,7 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-instance_create_depth(0, 0, -11, FlashObj)
+instance_create_depth(room_width/2, room_height/2, -20, FlashObj)
+
 
 if g_state != GameState.NuclearWinter{
 	g_state +=1
