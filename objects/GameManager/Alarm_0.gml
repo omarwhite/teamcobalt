@@ -11,7 +11,6 @@ else{
 	g_state = GameState.Spring
 }
 
-ChangeSeason()
 alarm_set(0, season_change_rate)
 
 
