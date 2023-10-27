@@ -31,7 +31,11 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
+<<<<<<< HEAD
     "IDEVersion": "2023.8.0.98",
+=======
+    "IDEVersion": "2023.800.0.406",
+>>>>>>> f15660f (feat: Added basis for season change)
   },
   "resources": [
     {"id":{"name":"TongueBase","path":"sprites/TongueBase/TongueBase.yy",},},
@@ -39,21 +43,41 @@
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"Playroom","path":"rooms/Playroom/Playroom.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Spring_BushALT","path":"sprites/Spring_BushALT/Spring_BushALT.yy",},},
+    {"id":{"name":"SpringBGAlt","path":"sprites/SpringBGAlt/SpringBGAlt.yy",},},
+    {"id":{"name":"GameManager","path":"objects/GameManager/GameManager.yy",},},
     {"id":{"name":"PlayerBody_Idle","path":"sprites/PlayerBody_Idle/PlayerBody_Idle.yy",},},
+    {"id":{"name":"Spring_Bush","path":"sprites/Spring_Bush/Spring_Bush.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Autumn_Bush","path":"sprites/Autumn_Bush/Autumn_Bush.yy",},},
     {"id":{"name":"spawner1","path":"objects/spawner1/spawner1.yy",},},
+    {"id":{"name":"Spring_Ground","path":"sprites/Spring_Ground/Spring_Ground.yy",},},
+    {"id":{"name":"AutumnBG","path":"sprites/AutumnBG/AutumnBG.yy",},},
     {"id":{"name":"TongueTip_Hit","path":"sprites/TongueTip_Hit/TongueTip_Hit.yy",},},
     {"id":{"name":"Player_Head","path":"objects/Player_Head/Player_Head.yy",},},
+    {"id":{"name":"Summer_Bush","path":"sprites/Summer_Bush/Summer_Bush.yy",},},
     {"id":{"name":"Spawn","path":"scripts/Spawn/Spawn.yy",},},
     {"id":{"name":"TongueFull","path":"sprites/TongueFull/TongueFull.yy",},},
     {"id":{"name":"bug1","path":"objects/bug1/bug1.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+=======
+    {"id":{"name":"WinterBG","path":"sprites/WinterBG/WinterBG.yy",},},
+>>>>>>> f15660f (feat: Added basis for season change)
     {"id":{"name":"PlayerHead_Idle","path":"sprites/PlayerHead_Idle/PlayerHead_Idle.yy",},},
+    {"id":{"name":"SummerBG","path":"sprites/SummerBG/SummerBG.yy",},},
+    {"id":{"name":"Autumn_Ground","path":"sprites/Autumn_Ground/Autumn_Ground.yy",},},
     {"id":{"name":"PlayerBody","path":"sprites/PlayerBody/PlayerBody.yy",},},
+    {"id":{"name":"Summer_Ground","path":"sprites/Summer_Ground/Summer_Ground.yy",},},
+    {"id":{"name":"ChangeSeason","path":"scripts/ChangeSeason/ChangeSeason.yy",},},
+    {"id":{"name":"Winter_Ground","path":"sprites/Winter_Ground/Winter_Ground.yy",},},
     {"id":{"name":"TongueTip_Normal","path":"sprites/TongueTip_Normal/TongueTip_Normal.yy",},},
+    {"id":{"name":"Bushes","path":"objects/Bushes/Bushes.yy",},},
     {"id":{"name":"healthScore","path":"objects/healthScore/healthScore.yy",},},
+    {"id":{"name":"SpringBG","path":"sprites/SpringBG/SpringBG.yy",},},
     {"id":{"name":"Tongue","path":"objects/Tongue/Tongue.yy",},},
+    {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
     {"id":{"name":"Tongue_Tip","path":"objects/Tongue_Tip/Tongue_Tip.yy",},},
     {"id":{"name":"bugPath","path":"paths/bugPath/bugPath.yy",},},
     {"id":{"name":"PlayerHead","path":"sprites/PlayerHead/PlayerHead.yy",},},

@@ -10,8 +10,9 @@ enum PlayerState {
 	Dead
 }
 
-//State inits
 
+
+//State inits
 p_state = PlayerState.Normal
 
 

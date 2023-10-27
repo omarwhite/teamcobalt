@@ -23,7 +23,7 @@ if p_state == PlayerState.Normal{
 				image_xscale *= -1
 			}
 		}
-		show_debug_message(p_state)
+		//show_debug_message(p_state)
 	}
 
 
