@@ -55,7 +55,6 @@
     {"id":{"name":"TongueBase","path":"sprites/TongueBase/TongueBase.yy",},},
     {"id":{"name":"TongueFull","path":"sprites/TongueFull/TongueFull.yy",},},
     {"id":{"name":"TongueFull2","path":"sprites/TongueFull2/TongueFull2.yy",},},
-    {"id":{"name":"TongueTip_Hit","path":"sprites/TongueTip_Hit/TongueTip_Hit.yy",},},
     {"id":{"name":"TongueTip_Normal","path":"sprites/TongueTip_Normal/TongueTip_Normal.yy",},},
     {"id":{"name":"Flash_Sprite","path":"sprites/Flash_Sprite/Flash_Sprite.yy",},},
   ],

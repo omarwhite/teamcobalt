@@ -11,4 +11,8 @@ with Player{
 
 instance_destroy(other)
 
+image_index = 1
+alarm_set(0, 15)
+
+
 score += scoreValue

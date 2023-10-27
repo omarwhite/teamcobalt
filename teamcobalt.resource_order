@@ -34,7 +34,6 @@
     {"name":"TongueBase","order":5,"path":"sprites/TongueBase/TongueBase.yy",},
     {"name":"TongueFull","order":6,"path":"sprites/TongueFull/TongueFull.yy",},
     {"name":"TongueFull2","order":7,"path":"sprites/TongueFull2/TongueFull2.yy",},
-    {"name":"TongueTip_Hit","order":9,"path":"sprites/TongueTip_Hit/TongueTip_Hit.yy",},
     {"name":"TongueTip_Normal","order":8,"path":"sprites/TongueTip_Normal/TongueTip_Normal.yy",},
     {"name":"Flash_Sprite","order":26,"path":"sprites/Flash_Sprite/Flash_Sprite.yy",},
   ],
