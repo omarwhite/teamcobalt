@@ -6,8 +6,6 @@
 
 hspeed = clamp(hspeed, -max_speed, max_speed)
 
-show_debug_message(p_state)
-
 if p_state == PlayerState.Normal{
 	if keyboard_check(ord("A")){ //left
 		hspeed += -1
@@ -25,7 +23,7 @@ if p_state == PlayerState.Normal{
 				image_xscale *= -1
 			}
 		}
-
+		show_debug_message(p_state)
 	}
 
 
@@ -45,7 +43,7 @@ if p_state == PlayerState.Normal{
 				image_xscale *= -1
 			}
 		}
-
+		show_debug_message(p_state)
 	}
 	
 	else {
@@ -65,12 +63,26 @@ x = clamp(x, 0, room_width-sprite_width/2)
 
 //Drains players HP at rate of 3 health per second (0.1 * 30 steps in a second)
 Player.hp -= health_drain
+Player.hp = clamp(Player.hp, 0, 100)
 
-
+if Player.hp < 1{
+	p_state = PlayerState.Dead
+	hspeed = 0
+	image_speed = 0
+	image_yscale = -1
+	head_offset_y = -25
+	with head_obj{
+		image_speed = 0
+		image_yscale = -1
+	}
+	draw_text(481, 382, "You died, press R to restart")
+}
 
 var flipFactor = 1
-if keyboard_check(ord("E")) and p_state != PlayerState.Hidden and p_state != PlayerState.Retracting{
+if keyboard_check(ord("E")) and p_state != PlayerState.Hidden and p_state != PlayerState.Retracting 
+	and p_state != PlayerState.Dead{
 	p_state = PlayerState.Eating
+	show_debug_message(p_state)
 	//Move head
 	flipFactor = 1
 	with head_obj{
@@ -103,7 +115,7 @@ else{ // Not pressing E to eat
 }
 
 if p_state == PlayerState.Retracting{
-	
+	show_debug_message(p_state)
 	if tongue_obj{
 		with tongue_obj{ // Retract the tongue
 			if other.image_xscale < 0 and image_xscale > 0 { image_xscale *= -1 }

@@ -6,7 +6,8 @@ enum PlayerState {
 	Normal,
 	Eating,
 	Retracting,
-	Hidden
+	Hidden,
+	Dead
 }
 
 //State inits
