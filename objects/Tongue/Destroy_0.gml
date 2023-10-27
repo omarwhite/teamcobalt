@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-Player.p_state = PlayerState.Normal
+//Player.p_state = PlayerState.Normal
 
 instance_destroy(tongueTip)
 

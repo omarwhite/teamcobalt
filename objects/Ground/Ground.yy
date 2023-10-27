@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spring_Ground",
-    "path": "sprites/Spring_Ground/Spring_Ground.yy",
+    "name": "Ground_Spr",
+    "path": "sprites/Ground_Spr/Ground_Spr.yy",
   },
   "spriteMaskId": null,
   "visible": true,
