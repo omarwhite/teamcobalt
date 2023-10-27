@@ -30,6 +30,7 @@
     {"id":{"name":"bug1","path":"objects/bug1/bug1.yy",},},
     {"id":{"name":"Bushes","path":"objects/Bushes/Bushes.yy",},},
     {"id":{"name":"GameManager","path":"objects/GameManager/GameManager.yy",},},
+    {"id":{"name":"FlashObj","path":"objects/FlashObj/FlashObj.yy",},},
     {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
     {"id":{"name":"healthScore","path":"objects/healthScore/healthScore.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
@@ -67,6 +68,7 @@
     {"id":{"name":"TongueTip_Hit","path":"sprites/TongueTip_Hit/TongueTip_Hit.yy",},},
     {"id":{"name":"TongueTip_Normal","path":"sprites/TongueTip_Normal/TongueTip_Normal.yy",},},
     {"id":{"name":"WinterBG","path":"sprites/WinterBG/WinterBG.yy",},},
+    {"id":{"name":"Flash_Sprite","path":"sprites/Flash_Sprite/Flash_Sprite.yy",},},
     {"id":{"name":"Winter_Ground","path":"sprites/Winter_Ground/Winter_Ground.yy",},},
   ],
   "RoomOrderNodes": [

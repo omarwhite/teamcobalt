@@ -11,6 +11,7 @@
     {"name":"bug1","order":3,"path":"objects/bug1/bug1.yy",},
     {"name":"Bushes","order":9,"path":"objects/Bushes/Bushes.yy",},
     {"name":"GameManager","order":7,"path":"objects/GameManager/GameManager.yy",},
+    {"name":"FlashObj","order":10,"path":"objects/FlashObj/FlashObj.yy",},
     {"name":"Ground","order":8,"path":"objects/Ground/Ground.yy",},
     {"name":"healthScore","order":2,"path":"objects/healthScore/healthScore.yy",},
     {"name":"Player","order":6,"path":"objects/Player/Player.yy",},
@@ -47,6 +48,7 @@
     {"name":"TongueTip_Hit","order":9,"path":"sprites/TongueTip_Hit/TongueTip_Hit.yy",},
     {"name":"TongueTip_Normal","order":8,"path":"sprites/TongueTip_Normal/TongueTip_Normal.yy",},
     {"name":"WinterBG","order":23,"path":"sprites/WinterBG/WinterBG.yy",},
+    {"name":"Flash_Sprite","order":11,"path":"sprites/Flash_Sprite/Flash_Sprite.yy",},
     {"name":"Winter_Ground","order":24,"path":"sprites/Winter_Ground/Winter_Ground.yy",},
   ],
 }

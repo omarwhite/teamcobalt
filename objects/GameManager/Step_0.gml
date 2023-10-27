@@ -2,19 +2,14 @@
 // You can write your code in this editor
 //show_debug_message(g_state)
 
-//if (g_state == GameState.NuclearWinter or g_state == GameState.Winter){
-//	//object_set_visible(Bushes, false
-//		instance_deactivate_object(bush_ref)
-//		instance_deactivate_object(bush2_ref
-
-//}
-//else{
-//	//object_set_visible(Bushes, true)
-//	if bush_ref{
-//		instance_activate_obeject(bush_ref)
-//		instance_activate_obeject(bush2_ref)
-//	}
-//}	
+if (g_state == GameState.NuclearWinter or g_state == GameState.Winter)
+{
+		object_set_visible(Bushes, false)
+}
+else{
+		object_set_visible(Bushes, true)
+	
+}	
 
 
 switch (g_state){
@@ -42,6 +37,7 @@ switch (g_state){
 		ChangeSeason()
 	break;
 }
+
 
 
 
