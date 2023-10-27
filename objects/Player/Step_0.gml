@@ -68,15 +68,7 @@ if !keyboard_check(ord("I")){
 Player.hp = clamp(Player.hp, 0, 100)
 
 if Player.hp < 1{
-	p_state = PlayerState.Dead
-	hspeed = 0
-	image_speed = 0
-	image_yscale = -1
-	head_offset_y = -25
-	with head_obj{
-		image_speed = 0
-		image_yscale = -1
-	}	
+		
 }
 
 var flipFactor = 1

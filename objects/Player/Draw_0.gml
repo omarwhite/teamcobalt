@@ -20,6 +20,15 @@ if (tongue_obj){
 
 if Player.hp <= 0{
 	draw_set_font(Font1)
-	draw_text(481, 382, "You died, press R to restart")	
+	draw_text(481, 382, "You died, press R to restart")
+	p_state = PlayerState.Dead
+	hspeed = 0
+	image_speed = 0
+	image_yscale = -1
+	head_offset_y *= -1
+	with head_obj{
+		image_speed = 0
+		image_yscale = -1
+	}
 }
 
