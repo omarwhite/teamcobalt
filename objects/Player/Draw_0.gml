@@ -17,3 +17,9 @@ if (tongue_obj){
 		y = other.head_obj.y
 	}
 }
+
+if Player.hp <= 0{
+	draw_set_font(Font1)
+	draw_text(481, 382, "You died, press R to restart")	
+}
+

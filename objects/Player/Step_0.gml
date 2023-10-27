@@ -62,7 +62,9 @@ else {
 x = clamp(x, 0, room_width-sprite_width/2)
 
 //Drains players HP at rate of 3 health per second (0.1 * 30 steps in a second)
-Player.hp -= health_drain
+if !keyboard_check(ord("I")){
+	Player.hp -= health_drain
+}
 Player.hp = clamp(Player.hp, 0, 100)
 
 if Player.hp < 1{
@@ -74,8 +76,7 @@ if Player.hp < 1{
 	with head_obj{
 		image_speed = 0
 		image_yscale = -1
-	}
-	draw_text(481, 382, "You died, press R to restart")
+	}	
 }
 
 var flipFactor = 1
