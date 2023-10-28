@@ -33,6 +33,7 @@ if p_state == PlayerState.Normal or p_state == PlayerState.Retracting or p_state
 				image_xscale *= -1
 			}
 		}
+		audio_play_sound(step, 10, false)
 		//show_debug_message(p_state)
 	}
 
@@ -53,7 +54,8 @@ if p_state == PlayerState.Normal or p_state == PlayerState.Retracting or p_state
 				image_xscale *= -1
 			}
 		}
-		show_debug_message(p_state)
+		audio_play_sound(step, 10, false)
+		//show_debug_message(p_state)
 	}
 	
 	else {

@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "step.wav",
   "type": 0,
-  "volume": 0.52,
+  "volume": 1.0,
 }
