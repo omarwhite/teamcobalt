@@ -1,1 +1,1 @@
-Player.hp -= 100
+Player.hp = 0

@@ -9,7 +9,7 @@ if prev_score != score{
 prev_score = score
 
 //Drains players HP at rate of 3 health per second (0.1 * 30 steps in a second)
-if !keyboard_check(ord("I")){
+if health_drain_enabled{
 	Player.hp -= health_drain
 }
 
@@ -74,9 +74,6 @@ x = clamp(x, 0, room_width-sprite_width/2)
 
 Player.hp = clamp(Player.hp, 0, 100)
 
-if Player.hp < 1{
-		
-}
 
 var flipFactor = 1
 if keyboard_check(ord("E")) and p_state != PlayerState.Hidden and  p_state != PlayerState.Cooldown

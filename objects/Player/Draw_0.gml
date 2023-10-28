@@ -25,7 +25,7 @@ if Player.hp <= 0{
 	hspeed = 0
 	image_speed = 0
 	image_yscale = -1
-	head_offset_y *= -1
+	head_offset_y = -25
 	with head_obj{
 		image_speed = 0
 		image_yscale = -1
